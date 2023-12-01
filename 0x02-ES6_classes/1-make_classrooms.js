@@ -1,6 +1,6 @@
 import ClassRoom from './0-classroom'
 
-export default function initializeRoom {
+export default function initializeRoom() {
   return [
 	  new ClassRoom(19),
 	  new ClassRoom(20),
